@@ -1,0 +1,37 @@
+.bg-all {
+  background-color: rgb(27, 55, 100);
+}
+.bg-icon {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(27, 55, 100, 1);
+  text-align: center;
+  border-radius: 5px;
+}
+.text-icon {
+  color: rgba(27, 55, 100, 1);
+}
+.line {
+  width: 55px;
+  height: 2px;
+  background-color: rgba(255, 202, 66, 1);
+}
+.fa,
+.fa-classic,
+.fa-sharp,
+.fas,
+.fa-solid,
+.far,
+.fa-regular,
+.fab,
+.fa-brands {
+  line-height: 2 !important;
+}
+.cart:hover {
+  color: rgb(255, 202, 66);
+  transition: 1s;
+}
+.pointer-c {
+  cursor: pointer;
+}
